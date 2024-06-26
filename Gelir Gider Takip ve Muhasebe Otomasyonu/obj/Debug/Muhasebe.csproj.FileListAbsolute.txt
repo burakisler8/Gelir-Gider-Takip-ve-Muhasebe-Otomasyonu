@@ -1,0 +1,58 @@
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.csprojAssemblyReference.cache
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.csproj.ResolveComReference.cache
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.Form1.resources
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.Properties.Resources.resources
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.csproj.GenerateResource.cache
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\MMFH\Desktop\Muhasebe\bin\Debug\Muhasebe.exe.config
+C:\Users\MMFH\Desktop\Muhasebe\bin\Debug\Muhasebe.exe
+C:\Users\MMFH\Desktop\Muhasebe\bin\Debug\Muhasebe.pdb
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.exe
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.pdb
+C:\Users\MMFH\Desktop\Muhasebe\bin\Debug\database.mdb
+C:\Users\Mehmet\Desktop\Muhasebe\bin\Debug\database.mdb
+C:\Users\Mehmet\Desktop\Muhasebe\bin\Debug\Muhasebe.exe.config
+C:\Users\Mehmet\Desktop\Muhasebe\bin\Debug\Muhasebe.exe
+C:\Users\Mehmet\Desktop\Muhasebe\bin\Debug\Muhasebe.pdb
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.csprojAssemblyReference.cache
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.csproj.ResolveComReference.cache
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.Form1.resources
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.Properties.Resources.resources
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.csproj.GenerateResource.cache
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.exe
+C:\Users\Mehmet\Desktop\Muhasebe\obj\Debug\Muhasebe.pdb
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.Form2.resources
+C:\Users\MMFH\Desktop\Muhasebe\obj\Debug\Muhasebe.giris.resources
+C:\Users\Burak\Desktop\GelirGiderTakip-main\bin\Debug\database.mdb
+C:\Users\Burak\Desktop\GelirGiderTakip-main\bin\Debug\Muhasebe.exe.config
+C:\Users\Burak\Desktop\GelirGiderTakip-main\bin\Debug\Muhasebe.exe
+C:\Users\Burak\Desktop\GelirGiderTakip-main\bin\Debug\Muhasebe.pdb
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.csproj.ResolveComReference.cache
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.Form1.resources
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.Form2.resources
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.giris.resources
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.Properties.Resources.resources
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.exe
+C:\Users\Burak\Desktop\GelirGiderTakip-main\obj\Debug\Muhasebe.pdb
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\bin\Debug\database.mdb
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\bin\Debug\Muhasebe.exe.config
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\bin\Debug\Muhasebe.exe
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\bin\Debug\Muhasebe.pdb
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.csproj.AssemblyReference.cache
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Interop.MSDAOSP.dll
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.csproj.ResolveComReference.cache
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.Form1.resources
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.Form2.resources
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.giris.resources
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.Properties.Resources.resources
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.csproj.GenerateResource.cache
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.exe
+C:\Users\Burak\Desktop\220111549-Burak İŞLER-BBP201\GelirGiderMuhasebeTakip\obj\Debug\Muhasebe.pdb
